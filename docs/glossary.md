@@ -16,14 +16,31 @@ A quick reference guide for the common terms and jargon used in the X ecosystem.
 - **Shadowban:** An unofficial term for when a post or account's visibility is restricted without notice.
 - **Thread:** A series of connected posts from the same user.
 
+> **Why it matters:** Understanding the technical language of the platform allows you to interpret analytics and platform updates with precision.
+
+## Common Beginner Mistakes
+- **Confusing Impressions with Reach:** Impressions include multiple views from the same person.
+- **Chasing "Engagement Rate" without Context:** A high engagement rate on a post with 10 views isn't as valuable as a lower rate on a post with 10k views.
+
 ## Examples
 - **High-Signal Engagement:** When a user bookmarks a thread instead of just liking it, signalling deep interest.
 - **The "Ratio":** A post with 100 likes but 1,000 replies is likely being "ratioed" due to a controversial or unpopular take.
 
-## Practical Takeaways
+## Practical Applications
+- **Use Analytics:** Don't just look at "Likes." Use your "CTR" to see if your hooks are working and "Bookmarks" to see if your value is landing.
+
+## Mini Exercise
+Check your last "Thread." Compare the "Impressions" of the first post vs. the last post. This drop-off is your "Retention Rate." How can you improve it next time?
+
+## Summary
+Terminology is the foundation of strategy. Use this glossary as a living document to stay informed as the platform evolves.
+
+---
+
+### 💡 Key Takeaways
 - Use this glossary to better understand analytics reports and platform updates.
 - Understanding these terms helps you communicate more effectively with other creators.
 
-## Further Reading
+## Related Reading
 - [Algorithm Explained](algorithm-explained.md)
 - [Ranking Signals](ranking-signals.md)
