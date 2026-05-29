@@ -1,16 +1,7 @@
-# The X Momentum Framework (XMF)
+# 🚀 The X Momentum Framework (XMF)
 
 ## Introduction
-The **X Momentum Framework (XMF)** is the signature methodology developed by X Growth Lab. It is a repeatable, operational system for measuring and improving your presence on X. Unlike descriptive growth guides, the XMF provides a structured way to evaluate your current "thermodynamic state" on the platform and take specific actions to increase your momentum.
-
-## The Operational Flow
-The XMF follows a five-step cycle to move you from a static account to a self-sustaining growth engine:
-
-1.  **Inputs:** High-weight engagement signals (Bookmarks, Replies).
-2.  **Process:** Algorithmic acceleration and out-of-network expansion.
-3.  **Score:** Measuring performance via the [XMF Scorecard](xmf-scorecard.md).
-4.  **Action:** Targeted improvements via the [XMF Action Planner](xmf-action-planner.md).
-5.  **Outcome:** Compounding audience growth and authority.
+The **X Momentum Framework** is the foundational methodology of the X Growth Lab. It moves away from "chasing the algorithm" and toward building a self-sustaining content engine. By understanding the 5 pillars of momentum, you can diagnose exactly why an account is stalled and how to restart its audience growth and authority.
 
 ---
 
@@ -71,11 +62,11 @@ graph TD
 - **Low Signal Weight:** Optimizing for "Likes" (low weight) instead of "Bookmarks" (high weight).
 
 ## Practical Applications
-- **Audit Your State:** Use the **[XMF Scorecard](xmf-scorecard.md)** to find your current momentum tier.
+- **Audit Your State:** Use the **[X Momentum Assessor](../tools/README.md#1-x-momentum-assessor-x-momentum-assessorpy)** tool to find your current momentum tier.
 - **Apply Corrections:** Use the **[XMF Action Planner](xmf-action-planner.md)** to fix your lowest-scoring pillar.
 
 ## Mini Exercise
-Pick your most recent post and categorize its primary signal. Was it designed to be **Bookmarked** (Utility), **Replied to** (Conversation), or **Liked** (Appreciation)? If it was only Liked, how could you rewrite it to encourage a Bookmark?
+Pick your most recent post and categorize its primary signal. Was it designed to be **Bookmarked** (Utility), **Replied to** (Conversation), or **Liked** (Appreciation)? Use the **[Post Analyzer](../tools/post-analyzer.py)** to see how you can improve it.
 
 ## Summary
 The X Momentum Framework is a diagnostic and operational tool. Use it to stop guessing and start measuring the specific mechanics that drive growth.
@@ -88,6 +79,6 @@ The X Momentum Framework is a diagnostic and operational tool. Use it to stop gu
 - **Routines Matter:** Use the [Creator Playbook](creator-playbook.md) to maintain the "Community Retention" pillar.
 
 ## Related Reading
-- [XMF Scorecard](xmf-scorecard.md)
+- [XMF Scorecard](../templates/x-momentum-scorecard.md)
 - [XMF Action Planner](xmf-action-planner.md)
-- [Algorithm Explained](algorithm-explained.md)
+- [Tooling Layer](../tools/README.md)

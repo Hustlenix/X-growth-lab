@@ -12,11 +12,18 @@ Most "growth hacks" are temporary, unsupported, or spammy. The platform is not a
 
 X Growth Lab exists to demystify the mechanics of the "For You" feed and provide creators, founders, and developers with a systems-based approach to growth. We bridge the gap between technical platform engineering and practical creator workflows.
 
+## 🛠 The Tooling Layer (New!)
+Turn theory into action with our local-first command-line tools.
+- **[X Momentum Assessor](tools/README.md#1-x-momentum-assessor-x-momentum-assessorpy):** Diagnose your account's health.
+- **[Post Analyzer](tools/README.md#2-post-analyzer-post-analyzerpy):** Improve your drafts before publishing.
+- **[Hook Generator](tools/README.md#3-hook-generator-hook-generatorpy):** Generate high-conversion hooks.
+- **See all tools in the [Tools Directory](tools/).**
+
 ## ✨ The X Momentum Framework (XMF)
 Our signature methodology for growth. The XMF is an operational system that moves from **Assessment** to **Action**:
 
 1.  **[The X Momentum Framework](docs/x-momentum-framework.md):** Understand the 5 pillars of the system.
-2.  **[XMF Scorecard](docs/xmf-scorecard.md):** Take the assessment to find your momentum score (0-100).
+2.  **[XMF Scorecard](templates/x-momentum-scorecard.md):** Take the assessment to find your momentum score (0-100).
 3.  **[XMF Action Planner](docs/xmf-action-planner.md):** Get targeted recommendations based on your score.
 
 ---
@@ -26,7 +33,25 @@ Our signature methodology for growth. The XMF is an operational system that move
 - **Creators:** Transition from "random posting" to a sustainable engine.
 - **Founders/Indie Hackers:** Build authority and distribution for your products.
 - **Marketers:** Understand the technical ranking signals that drive reach.
-- **AI Builders:** Study the large-scale recommendation pipelines that power modern social apps.
+
+## 🏗 Repository Architecture
+```mermaid
+graph TD
+    Root[README.md] --> Tools[tools/]
+    Root --> Docs[docs/index.md]
+    Root --> Templates[templates/]
+    Root --> Datasets[datasets/]
+
+    subgraph "Execution Layer"
+    Tools
+    Templates
+    Datasets
+    end
+
+    subgraph "Knowledge Layer"
+    Docs
+    end
+```
 
 ## 🗺 Learning Roadmap
 Follow this visual progression to master the platform:
@@ -37,69 +62,41 @@ graph TD
     B --> C[🚀 Advanced: Strategic Growth]
     C --> D[🏆 Mastery: Systems & Analysis]
 
-    subgraph "Phase 1"
+    subgraph "Phase 1: Foundations"
     A --- A1[Glossary]
     end
 
-    subgraph "Phase 2"
+    subgraph "Phase 2: Mechanics"
     B --- B1[Algorithm Explained]
     B --- B2[Ranking Signals]
     end
 
-    subgraph "Phase 3"
+    subgraph "Phase 3: Strategy"
     C --- C1[X Momentum Framework]
     C --- C2[XMF Scorecard]
     end
 
-    subgraph "Phase 4"
-    D --- D1[XMF Action Planner]
+    subgraph "Phase 4: Tooling & Analysis"
+    D --- D1[Tooling Layer]
     D --- D2[Case Studies]
     end
 ```
 
 ## 🧠 Key Concepts Covered
-| Concept | Description | Document |
+| Concept | Description | Resource |
 | :--- | :--- | :--- |
-| **XMF Score** | A weighted formula to measure post momentum. | [XMF Scorecard](docs/xmf-scorecard.md) |
+| **XMF Score** | A weighted formula to measure post momentum. | [XMF Scorecard](templates/x-momentum-scorecard.md) |
 | **Heavy Ranker** | The neural network scoring candidate posts. | [Algorithm](docs/algorithm-explained.md) |
 | **Signal Weights** | The hierarchy of Bookmarks, Replies, and Likes. | [Ranking](docs/ranking-signals.md) |
 | **3-Pillar Strategy** | Balancing Value, Authority, and Personality. | [Strategies](docs/growth-strategies.md) |
 | **Daily Workflow** | The "20-5-10-15" routine for consistency. | [Playbook](docs/creator-playbook.md) |
 
-## 🏗 Repository Architecture
-```mermaid
-graph LR
-    Root[README.md] --> Docs[docs/index.md]
-    Docs --> Guide0[XMF Framework]
-    Docs --> GuideX[XMF Scorecard]
-    Docs --> Guide1[Algorithm]
-    Docs --> Guide2[Ranking]
-    Docs --> Guide3[Strategy]
-    Docs --> Guide4[Playbook]
-    Docs --> Guide5[Case Studies]
-    Docs --> Guide6[Glossary]
-
-    Root --> Gov[Governance]
-    Gov --- G1[CONTRIBUTING.md]
-    Gov --- G2[ROADMAP.md]
-```
-
 ## 🎯 Example Learning Outcomes
 By the end of this curriculum, you will be able to:
 1. **Analyze your analytics** to identify high-signal content.
-2. **Calculate your Momentum Score** to audit post performance.
+2. **Calculate your Momentum Score** using the **X Momentum Assessor**.
 3. **Design hooks** that significantly increase "Out-of-Network" reach.
 4. **Build a daily routine** that ensures growth without burnout.
-
-## ✨ What Makes This Different?
-- **Operational Framework:** We don't just explain growth; we give you tools to measure it.
-- **XMF Scorecard:** A repeatable assessment for your account health.
-- **Educational First:** Every guide includes exercises and "beginner mistakes" to avoid.
-
-## ⏱ Quick Start
-1. **Star this repository** to track updates.
-2. Visit the **[Learning Hub (docs/index.md)](docs/index.md)**.
-3. Start with the **[XMF Scorecard](docs/xmf-scorecard.md)** to find your starting point.
 
 ## 🤝 Contributing
 We love contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for our standards and how to get involved.

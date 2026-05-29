@@ -37,7 +37,9 @@ The X Growth Lab is built on three main pillars of understanding:
 
 ## 🛠 Implementation Tools
 *Actionable resources to apply the frameworks.*
-- **[XMF Scorecard](xmf-scorecard.md):** Assess your current momentum (0-100).
+- **[Tooling Layer](../tools/README.md):** Local-first Python tools for creators.
+- **[X Momentum Assessor](../tools/README.md#1-x-momentum-assessor-x-momentum-assessorpy):** Assess your current momentum (0-100).
+- **[XMF Scorecard](../templates/x-momentum-scorecard.md):** A template for auditing your account health.
 - **[XMF Action Planner](xmf-action-planner.md):** Get a customized roadmap based on your score.
 
 ---
@@ -45,14 +47,14 @@ The X Growth Lab is built on three main pillars of understanding:
 ## Common Beginner Mistakes
 - **Skipping the Foundations:** Trying to apply advanced strategies before understanding why the algorithm shows content in the first place.
 - **Passive Reading:** Reading these guides without performing the **Mini Exercises** included in each document.
-- **Chasing Hacks:** Looking for a "silver bullet" instead of building a content engine.
+- **Ignoring the Tools:** Learning theory without using the **[Tooling Layer](../tools/)** to analyze real posts.
 
 ## Practical Applications
-- **Audit Your State:** Use the **[XMF Scorecard](xmf-scorecard.md)** to find your current momentum tier.
-- **Implement One Routine:** Start with the "Daily Routine" from the [Creator Playbook](creator-playbook.md).
+- **Audit Your State:** Run the **[X Momentum Assessor](../tools/x-momentum-assessor.py)** to find your current momentum tier.
+- **Improve Your Content:** Use the **[Post Analyzer](../tools/post-analyzer.py)** on your next draft.
 
 ## Mini Exercise
-Before diving into the guides, write down your current #1 goal for X (e.g., "Get 1,000 followers," "Drive 100 clicks to my site," "Build authority in the AI niche"). After taking the **[XMF Scorecard](xmf-scorecard.md)** assessment, come back and see if your goal has changed.
+Before diving into the guides, write down your current #1 goal for X. Then, run the **[X Momentum Assessor](../tools/x-momentum-assessor.py)** tool. After seeing your score and diagnostic, come back and see if your goal or focus has shifted.
 
 ## Summary
 The X Growth Lab is your roadmap to platform mastery. Start small, be consistent, and focus on providing value that the recommendation system can amplify.
@@ -61,10 +63,10 @@ The X Growth Lab is your roadmap to platform mastery. Start small, be consistent
 
 ### 💡 Key Takeaways
 - **Follow the Path:** Don't skip ahead; the concepts build on each other.
-- **Do the Work:** The exercises are as important as the reading.
+- **Use the Tools:** Turn theory into executable content with the CLI toolkit.
 - **Stay Curious:** Use the [Roadmap](../ROADMAP.md) to see how the project is evolving.
 
 ## Related Reading
 - **[Algorithm Explained](algorithm-explained.md)**
 - **[The X Momentum Framework](x-momentum-framework.md)**
-- **[XMF Scorecard](xmf-scorecard.md)**
+- **[Tooling Layer](../tools/README.md)**
