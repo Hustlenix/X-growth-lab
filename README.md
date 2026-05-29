@@ -13,14 +13,11 @@ Most "growth hacks" are temporary, unsupported, or spammy. The platform is not a
 X Growth Lab exists to demystify the mechanics of the "For You" feed and provide creators, founders, and developers with a systems-based approach to growth. We bridge the gap between technical platform engineering and practical creator workflows.
 
 ## ✨ The X Momentum Framework (XMF)
-Our signature methodology for growth. The XMF treats your presence as a system of compounding energy:
-1. **Signal Generation:** Creating high-weight interactions.
-2. **Algorithmic Velocity:** Maximizing initial engagement speed.
-3. **Out-of-Network Expansion:** Breaking into new audiences.
-4. **Profile Conversion:** Turning reach into followers.
-5. **Community Retention:** Building an active inner circle.
+Our signature methodology for growth. The XMF is an operational system that moves from **Assessment** to **Action**:
 
-Read the full guide: **[The X Momentum Framework (XMF)](docs/x-momentum-framework.md)**.
+1.  **[The X Momentum Framework](docs/x-momentum-framework.md):** Understand the 5 pillars of the system.
+2.  **[XMF Scorecard](docs/xmf-scorecard.md):** Take the assessment to find your momentum score (0-100).
+3.  **[XMF Action Planner](docs/xmf-action-planner.md):** Get targeted recommendations based on your score.
 
 ---
 
@@ -51,11 +48,11 @@ graph TD
 
     subgraph "Phase 3"
     C --- C1[X Momentum Framework]
-    C --- C2[Growth Strategies]
+    C --- C2[XMF Scorecard]
     end
 
     subgraph "Phase 4"
-    D --- D1[Creator Playbook]
+    D --- D1[XMF Action Planner]
     D --- D2[Case Studies]
     end
 ```
@@ -63,7 +60,7 @@ graph TD
 ## 🧠 Key Concepts Covered
 | Concept | Description | Document |
 | :--- | :--- | :--- |
-| **XMF Score** | A weighted formula to measure post momentum. | [XMF Guide](docs/x-momentum-framework.md) |
+| **XMF Score** | A weighted formula to measure post momentum. | [XMF Scorecard](docs/xmf-scorecard.md) |
 | **Heavy Ranker** | The neural network scoring candidate posts. | [Algorithm](docs/algorithm-explained.md) |
 | **Signal Weights** | The hierarchy of Bookmarks, Replies, and Likes. | [Ranking](docs/ranking-signals.md) |
 | **3-Pillar Strategy** | Balancing Value, Authority, and Personality. | [Strategies](docs/growth-strategies.md) |
@@ -74,6 +71,7 @@ graph TD
 graph LR
     Root[README.md] --> Docs[docs/index.md]
     Docs --> Guide0[XMF Framework]
+    Docs --> GuideX[XMF Scorecard]
     Docs --> Guide1[Algorithm]
     Docs --> Guide2[Ranking]
     Docs --> Guide3[Strategy]
@@ -94,14 +92,14 @@ By the end of this curriculum, you will be able to:
 4. **Build a daily routine** that ensures growth without burnout.
 
 ## ✨ What Makes This Different?
-- **The X Momentum Framework:** A unique, systems-first methodology.
+- **Operational Framework:** We don't just explain growth; we give you tools to measure it.
+- **XMF Scorecard:** A repeatable assessment for your account health.
 - **Educational First:** Every guide includes exercises and "beginner mistakes" to avoid.
-- **Open & Evolving:** This isn't a static PDF; it's a living, community-driven project.
 
 ## ⏱ Quick Start
 1. **Star this repository** to track updates.
 2. Visit the **[Learning Hub (docs/index.md)](docs/index.md)**.
-3. Start with the **[X Momentum Framework](docs/x-momentum-framework.md)** (4 min read).
+3. Start with the **[XMF Scorecard](docs/xmf-scorecard.md)** to find your starting point.
 
 ## 🤝 Contributing
 We love contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for our standards and how to get involved.

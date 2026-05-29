@@ -35,17 +35,24 @@ The X Growth Lab is built on three main pillars of understanding:
 
 ---
 
+## 🛠 Implementation Tools
+*Actionable resources to apply the frameworks.*
+- **[XMF Scorecard](xmf-scorecard.md):** Assess your current momentum (0-100).
+- **[XMF Action Planner](xmf-action-planner.md):** Get a customized roadmap based on your score.
+
+---
+
 ## Common Beginner Mistakes
 - **Skipping the Foundations:** Trying to apply advanced strategies before understanding why the algorithm shows content in the first place.
 - **Passive Reading:** Reading these guides without performing the **Mini Exercises** included in each document.
 - **Chasing Hacks:** Looking for a "silver bullet" instead of building a content engine.
 
 ## Practical Applications
-- **Audit Your Current State:** Use the [Glossary](glossary.md) to look at your current analytics.
+- **Audit Your State:** Use the **[XMF Scorecard](xmf-scorecard.md)** to find your current momentum tier.
 - **Implement One Routine:** Start with the "Daily Routine" from the [Creator Playbook](creator-playbook.md).
 
 ## Mini Exercise
-Before diving into the guides, write down your current #1 goal for X (e.g., "Get 1,000 followers," "Drive 100 clicks to my site," "Build authority in the AI niche"). After reading **[The X Momentum Framework](x-momentum-framework.md)**, come back and see if your goal has changed.
+Before diving into the guides, write down your current #1 goal for X (e.g., "Get 1,000 followers," "Drive 100 clicks to my site," "Build authority in the AI niche"). After taking the **[XMF Scorecard](xmf-scorecard.md)** assessment, come back and see if your goal has changed.
 
 ## Summary
 The X Growth Lab is your roadmap to platform mastery. Start small, be consistent, and focus on providing value that the recommendation system can amplify.
@@ -59,5 +66,5 @@ The X Growth Lab is your roadmap to platform mastery. Start small, be consistent
 
 ## Related Reading
 - **[Algorithm Explained](algorithm-explained.md)**
-- **[Ranking Signals](ranking-signals.md)**
 - **[The X Momentum Framework](x-momentum-framework.md)**
+- **[XMF Scorecard](xmf-scorecard.md)**
