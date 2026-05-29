@@ -23,13 +23,15 @@ The X Growth Lab is built on three main pillars of understanding:
 
 ### 🚀 Intermediate Path: Building the Engine
 *Focus: Turning knowledge into a sustainable content system.*
-1.  **[Growth Strategies](growth-strategies.md):** Frameworks for value, authority, and personality.
-2.  **[Creator Playbook](creator-playbook.md):** Actionable daily and weekly workflows.
+1.  **[The X Momentum Framework](x-momentum-framework.md):** Our signature methodology for growth.
+2.  **[Growth Strategies](growth-strategies.md):** Frameworks for value, authority, and personality.
+3.  **[Creator Playbook](creator-playbook.md):** Actionable daily and weekly workflows.
 
 ### 🧠 Advanced Path: Analysis & Optimization
 *Focus: Studying the masters and refining your unique approach.*
 1.  **[Case Studies](case-studies.md):** Deep-dives into successful creator prototypes.
-2.  **[Ranking Signals (Advanced)](ranking-signals.md#recommendation-pipeline):** Understanding the multi-stage recommendation pipeline.
+2.  **[The X Momentum Framework (Analysis)](x-momentum-framework.md#practical-applications):** Measuring and auditing your momentum scores.
+3.  **[Ranking Signals (Advanced)](ranking-signals.md#recommendation-pipeline):** Understanding the multi-stage recommendation pipeline.
 
 ---
 
@@ -43,7 +45,7 @@ The X Growth Lab is built on three main pillars of understanding:
 - **Implement One Routine:** Start with the "Daily Routine" from the [Creator Playbook](creator-playbook.md).
 
 ## Mini Exercise
-Before diving into the guides, write down your current #1 goal for X (e.g., "Get 1,000 followers," "Drive 100 clicks to my site," "Build authority in the AI niche"). After reading the **[Growth Strategies](growth-strategies.md)** guide, come back and see if your goal has changed.
+Before diving into the guides, write down your current #1 goal for X (e.g., "Get 1,000 followers," "Drive 100 clicks to my site," "Build authority in the AI niche"). After reading **[The X Momentum Framework](x-momentum-framework.md)**, come back and see if your goal has changed.
 
 ## Summary
 The X Growth Lab is your roadmap to platform mastery. Start small, be consistent, and focus on providing value that the recommendation system can amplify.
@@ -58,4 +60,4 @@ The X Growth Lab is your roadmap to platform mastery. Start small, be consistent
 ## Related Reading
 - **[Algorithm Explained](algorithm-explained.md)**
 - **[Ranking Signals](ranking-signals.md)**
-- **[Growth Strategies](growth-strategies.md)**
+- **[The X Momentum Framework](x-momentum-framework.md)**

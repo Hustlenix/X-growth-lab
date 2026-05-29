@@ -4,6 +4,7 @@
 Growth on X is not about "hacking" the system; it's about building a sustainable engine that provides value to a specific audience. This document outlines the core frameworks for building that engine.
 
 ## Core Concepts
+While the [X Momentum Framework](x-momentum-framework.md) provides the systems-level view, these strategies focus on the content and positioning required to feed that system.
 ### 1. The 3-Pillar Strategy
 1. **Value:** Educational or informative content that solves a problem.
 2. **Authority:** Demonstrating expertise in a specific niche.

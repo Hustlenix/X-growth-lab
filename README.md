@@ -12,6 +12,18 @@ Most "growth hacks" are temporary, unsupported, or spammy. The platform is not a
 
 X Growth Lab exists to demystify the mechanics of the "For You" feed and provide creators, founders, and developers with a systems-based approach to growth. We bridge the gap between technical platform engineering and practical creator workflows.
 
+## ✨ The X Momentum Framework (XMF)
+Our signature methodology for growth. The XMF treats your presence as a system of compounding energy:
+1. **Signal Generation:** Creating high-weight interactions.
+2. **Algorithmic Velocity:** Maximizing initial engagement speed.
+3. **Out-of-Network Expansion:** Breaking into new audiences.
+4. **Profile Conversion:** Turning reach into followers.
+5. **Community Retention:** Building an active inner circle.
+
+Read the full guide: **[The X Momentum Framework (XMF)](docs/x-momentum-framework.md)**.
+
+---
+
 ## 👥 Who This Is For
 - **Beginners:** Learn the "rules of the game" from scratch.
 - **Creators:** Transition from "random posting" to a sustainable engine.
@@ -38,29 +50,30 @@ graph TD
     end
 
     subgraph "Phase 3"
-    C --- C1[Growth Strategies]
-    C --- C2[Creator Playbook]
+    C --- C1[X Momentum Framework]
+    C --- C2[Growth Strategies]
     end
 
     subgraph "Phase 4"
-    D --- D1[Case Studies]
-    D --- D2[Analytics Optimization]
+    D --- D1[Creator Playbook]
+    D --- D2[Case Studies]
     end
 ```
 
 ## 🧠 Key Concepts Covered
 | Concept | Description | Document |
 | :--- | :--- | :--- |
-| **Heavy Ranker** | The neural network scoring candidate posts. | [Algorithm Explained](docs/algorithm-explained.md) |
-| **Signal Weights** | The hierarchy of Bookmarks, Replies, and Likes. | [Ranking Signals](docs/ranking-signals.md) |
-| **3-Pillar Strategy** | Balancing Value, Authority, and Personality. | [Growth Strategies](docs/growth-strategies.md) |
-| **Daily Workflow** | The "20-5-10-15" routine for consistency. | [Creator Playbook](docs/creator-playbook.md) |
-| **Out-of-Network** | How to reach users who don't follow you. | [Glossary](docs/glossary.md) |
+| **XMF Score** | A weighted formula to measure post momentum. | [XMF Guide](docs/x-momentum-framework.md) |
+| **Heavy Ranker** | The neural network scoring candidate posts. | [Algorithm](docs/algorithm-explained.md) |
+| **Signal Weights** | The hierarchy of Bookmarks, Replies, and Likes. | [Ranking](docs/ranking-signals.md) |
+| **3-Pillar Strategy** | Balancing Value, Authority, and Personality. | [Strategies](docs/growth-strategies.md) |
+| **Daily Workflow** | The "20-5-10-15" routine for consistency. | [Playbook](docs/creator-playbook.md) |
 
 ## 🏗 Repository Architecture
 ```mermaid
 graph LR
     Root[README.md] --> Docs[docs/index.md]
+    Docs --> Guide0[XMF Framework]
     Docs --> Guide1[Algorithm]
     Docs --> Guide2[Ranking]
     Docs --> Guide3[Strategy]
@@ -76,24 +89,19 @@ graph LR
 ## 🎯 Example Learning Outcomes
 By the end of this curriculum, you will be able to:
 1. **Analyze your analytics** to identify high-signal content.
-2. **Design hooks** that significantly increase "Out-of-Network" reach.
-3. **Build a daily routine** that ensures growth without burnout.
-4. **Understand the recommendation pipeline** to optimize for long-term retention.
+2. **Calculate your Momentum Score** to audit post performance.
+3. **Design hooks** that significantly increase "Out-of-Network" reach.
+4. **Build a daily routine** that ensures growth without burnout.
 
 ## ✨ What Makes This Different?
-- **Systems Over Hacks:** We don't teach "one weird trick." we teach how the engine works.
+- **The X Momentum Framework:** A unique, systems-first methodology.
 - **Educational First:** Every guide includes exercises and "beginner mistakes" to avoid.
 - **Open & Evolving:** This isn't a static PDF; it's a living, community-driven project.
 
 ## ⏱ Quick Start
 1. **Star this repository** to track updates.
 2. Visit the **[Learning Hub (docs/index.md)](docs/index.md)**.
-3. Start with the **[Algorithm Explained](docs/algorithm-explained.md)** (3 min read).
-
-## 🔮 Future Features Preview
-- **Phase 2 (Templates):** Profile optimization checklists and content calendars.
-- **Phase 3 (Datasets):** Curated hooks and high-performance post structures.
-- **Phase 4 (Tools):** Open-source CLI analytics and engagement trackers.
+3. Start with the **[X Momentum Framework](docs/x-momentum-framework.md)** (4 min read).
 
 ## 🤝 Contributing
 We love contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for our standards and how to get involved.
